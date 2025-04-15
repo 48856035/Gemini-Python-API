@@ -1,4 +1,5 @@
-#  HW2:全球氣溫變化視覺化分析 https://github.com/48856035/Gemini-Python-API/blob/main/HW2.ipynb
+#  [HW2](https://github.com/48856035/Gemini-Python-API/blob/main/HW2.ipynb)
+:全球氣溫變化視覺化分析
 
 [HW2](https://github.com/48856035/Gemini-Python-API/blob/main/HW2.ipynb)
 
