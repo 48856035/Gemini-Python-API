@@ -1,4 +1,4 @@
-#  HW2:全球氣溫變化視覺化分析
+#  HW2:全球氣溫變化視覺化分析 https://github.com/48856035/Gemini-Python-API/blob/main/HW2.ipynb
 
 本專案使用 NOAA（GCAG）與 NASA（GISTEMP）提供的全球氣溫資料，透過 Python 視覺化全球暖化趨勢，並進行三種圖表分析。
 
