@@ -1,3 +1,5 @@
+#[HW1](https://github.com/48856035/Gemini-Python-API/blob/main/HW1.ipynb):健身日程機器人
+
 #  [HW2](https://github.com/48856035/Gemini-Python-API/blob/main/HW2.ipynb):全球氣溫變化視覺化分析
 
 本專案使用 NOAA（GCAG）與 NASA（GISTEMP）提供的全球氣溫資料，透過 Python 視覺化全球暖化趨勢，並進行三種圖表分析。
