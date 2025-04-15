@@ -35,7 +35,7 @@
 
 ---
 
-# [HW3]()顧客分群分析：KMeans + PCA
+# [HW3](https://github.com/48856035/Gemini-Python-API/blob/main/HW3.ipynb)顧客分群分析：KMeans + PCA
 
 本專案使用 Python 對隨機生成的顧客資料進行分群分析，透過 **KMeans 聚類** 與 **PCA 降維** 來探索顧客行為特徵，並進行視覺化呈現，最後根據分析結果提出實務應用建議。
 
