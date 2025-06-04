@@ -1,3 +1,5 @@
+# [專題影片](https://youtu.be/OdgPUIE8ErU)
+
 #  [HW1](https://github.com/48856035/Gemini-Python-API/blob/main/HW1.ipynb):I/O健身日程LLM串接機器人
 
 #  [HW2](https://github.com/48856035/Gemini-Python-API/blob/main/HW2.ipynb):全球氣溫變化視覺化分析
